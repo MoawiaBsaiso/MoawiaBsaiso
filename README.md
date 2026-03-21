@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moawiabsaiso&label=Profile%20views&color=0e75b6&style=flat" alt="moawiabsaiso" /> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **Powerful Animation Websites by three.js**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I'm currently building with **GSAP & Three.js**
 
 - 👯 I’m looking to collaborate on **make a unique and distinctive websites**
 
 - 🤝 I’m looking for help with **share my knowledge and experience whether in websites or teaching someone**
 
-- 💬 Ask me about **react and gsap or any other thing related to Frontend development**
+- 💬 Ask me about **react, next.js and gsap or any other thing related to Frontend development or Web development**
 
 - 📫 How to reach me **moawia.b56@gmail.com**
 
-- ⚡ Fun fact **I love programming**
+- ⚡ Fun fact **I love programming despite the existence of AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
