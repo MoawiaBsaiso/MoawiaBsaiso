@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moawia Bsaiso</h1>
-<h3 align="center">A outstanding frontend developer from Palestine</h3>
+<h3 align="center">A Frontend Engineer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moawiabsaiso&label=Profile%20views&color=0e75b6&style=flat" alt="moawiabsaiso" /> </p>
 
